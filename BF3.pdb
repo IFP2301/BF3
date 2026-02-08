@@ -1,0 +1,6 @@
+HEADER    BORON TRIFLUORIDE (BF3) D3h
+ATOM      1  B   MOL     1       0.000   0.000   0.000  1.00  0.00           B
+ATOM      2  F   MOL     1       1.300   0.000   0.000  1.00  0.00           F
+ATOM      3  F   MOL     1      -0.650   1.126   0.000  1.00  0.00           F
+ATOM      4  F   MOL     1      -0.650  -1.126   0.000  1.00  0.00           F
+END
