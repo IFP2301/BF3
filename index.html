@@ -20,7 +20,7 @@
       // Carga el ciclohexano_bote .mol y configura la visualización en formato bolas y palos:
       // "spacefill 23%;" muestra los átomos como esferas (bolas) al 15% de su radio,
       // "wireframe 0.15;" dibuja las conexiones (palos) con un grosor de 0.08.
-      script: "load 'ciclohexano_bote.mol'; select all; spacefill 15%; wireframe 0.08;",
+      script: "load 'BF3.pdb'; select all; spacefill 15%; wireframe 0.08;",
       disableJ2SLoadMonitor: true,
       disableInitialConsole: true
     };
@@ -28,4 +28,5 @@
     Jmol.getApplet("jmolApplet", Info);
   </script>
 </body>
+
 </html>
